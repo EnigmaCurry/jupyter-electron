@@ -1,0 +1,22 @@
+{
+  "name": "jupyter-electron",
+  "version": "0.0.1",
+  "description": "Desktop app for a remote jupyter lab server",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EnigmaCurry/jupyter-electron.git"
+  },
+  "author": "EnigmaCurry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnigmaCurry/jupyter-electron/issues"
+  },
+  "homepage": "https://github.com/EnigmaCurry/jupyter-electron#readme",
+  "devDependencies": {
+    "electron": "^9.2.1"
+  }
+}
